@@ -1,9 +1,9 @@
-👋 Hi, I’m Kezia Pessoa.
-📚 Computer Engineering student at Universidade Federal da Paraíba (UFPB).
-💻 C
-🏎️ Formula UFPB
-😄 She/Her
-🌎 Brazilian
+👋 Hi, I’m Kezia Pessoa  
+📚 Computer Engineering student at Universidade Federal da Paraíba (UFPB)  
+💻 C  
+🏎️ Formula UFPB  
+😄 She/Her  
+🌎 Brazilian  
 
 
 <!---
