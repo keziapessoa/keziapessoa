@@ -1,6 +1,6 @@
 👋 Hi, I’m Kezia Pessoa  
 📚 Computer Engineering student at Universidade Federal da Paraíba (UFPB)  
-💻 C/C++  
+💻 C / C++  
 😄 She/Her  
 🌎 Brazilian  
 
