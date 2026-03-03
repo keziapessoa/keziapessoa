@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keziapessoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keziapessoa&layout=compact&langs_count=10&theme=tokyonight" width="400"/>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=F7E600&vCenter=true&width=520&lines=I'am+Kezia+Pessoa;I'am+developer+and+computer+engineering+student;I+love+robotics+and+design)](https://git.io/typing-svg)
 
 ## About Me
