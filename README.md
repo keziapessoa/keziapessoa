@@ -1,28 +1,14 @@
 <!-- GitHub Stats Dashboard -->
 <div align="center">
 
-<!-- Stats gerais -->
+<!-- GitHub Stats Card -->
 <a href="https://github.com/keziapessoa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keziapessoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <!-- Ranking de linguagens -->
+  <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keziapessoa&layout=compact&langs_count=10&theme=tokyonight"/>
 </a>
 
-</div>
-
-<!-- Skills com ícones -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="60" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="60" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" title="Arduino"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" title="Linux"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=F7E600&vCenter=true&width=520&lines=I'am+Kezia+Pessoa;I'am+developer+and+computer+engineering+student;I+love+robotics+and+design)](https://git.io/typing-svg)
