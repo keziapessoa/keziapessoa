@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=F7E600&vCenter=true&width=520&lines=I'am+Kezia+Pessoa;I'am+developer+and+computer+engineering+student;I+love+robotics+and+design)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/keziapessoa?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/keziapessoa">
+</picture>
+
 ## About Me
 
 - 💻 Computer Engineering Undergraduate Student at Universidade Federal da Paraíba (UFPB) 
