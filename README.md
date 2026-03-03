@@ -1,3 +1,19 @@
+<div align="center">
+  <a href="https://github.com/keziapessoa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keziapessoa&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.icons8.com/color/2x/vue-js.png" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100"/>
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="100"/>
+  <img src="https://img.icons8.com/color/2x/css3.png" width="100"/>
+  <img src="https://img.icons8.com/color/2x/javascript.png" width="100"/>
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="100"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=F7E600&vCenter=true&width=520&lines=I'am+Kezia+Pessoa;I'am+developer+and+computer+engineering+student;I+love+robotics+and+design)](https://git.io/typing-svg)
 
 ## About Me
